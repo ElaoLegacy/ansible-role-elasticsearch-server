@@ -3,6 +3,7 @@
 dependencies:
 
   - { role: elao.base }
+  - { role: elao.java }
 
 galaxy_info:
 
